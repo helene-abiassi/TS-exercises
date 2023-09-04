@@ -28,8 +28,10 @@ async function helloTypeScript() {
   return "Hey there"
 }
 
-console.log("Hey");
+//* TYPESCRIPT EXERCISES - FROM STUDIO GHIBLI PROJECT
 
-console.log("hey again");
+//* 1. Recreate the buildTable function in TS
 
-console.log("hey again");
+
+
+//* 2. Recreate the fetch function in TS
